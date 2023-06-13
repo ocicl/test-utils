@@ -1,0 +1,10 @@
+* test-utils
+
+Convenience functions and macros for testing Common Lisp applications via Prove and Quickcheck
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/inaimathi/test-utils.git   |
+| commit  | 8d0cead  |
+| systems | test-utils |
+|---------+-------------------------------------------|
+
